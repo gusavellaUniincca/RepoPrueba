@@ -1,3 +1,3 @@
 # RepoPrueba
 Repositorio de prueba
-##Repositorio con pruebade archivo
+## Repositorio con prueba de archivo

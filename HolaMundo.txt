@@ -1,1 +1,3 @@
-Archivode java a compartiren github
+Archivo de java a compartir en github
+
+Archivo modificado desde  vsc

@@ -2,4 +2,4 @@
 Repositorio de prueba
 ## Repositorio con prueba de archivo
 
-este es miarchiv  de prueba
+este es mi archivo de prueba con github
